@@ -20,7 +20,7 @@ const Expertise = () =>{
             <div className="mt-4 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-4 gap-10 pt-3 justify-items-center">
     <div className="p-6 bg-white shadow-md w-[250px] h-[500px]">
         <CgWebsite className="h-10 w-10 text-[#ac9120]" />
-        <h3 className="text-xl p-2 font-semibold border-b-2 border-[#ac9120]">Web Design et Développement</h3>
+        <h3 className="text-xl p-2 font-semibold border-b-2 border-[#ac9120]">Conception et développement de sites Web</h3>
         <p className="mt-2 pt-3">
             Nous créons des sites web modernes et performants, adaptés à vos besoins. 
             Que ce soit pour une vitrine professionnelle, une boutique en ligne ou une plateforme sur mesure, 

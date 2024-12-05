@@ -39,7 +39,7 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold mb-4">Services</h3>
           <ul className="space-y-2">
-            <li>Web Design et Developpement</li>
+            <li>Conception et développement de sites Web</li>
             <li>Application mobile</li>
             <li>Email professionnel</li>
             <li>Hébergement</li>
