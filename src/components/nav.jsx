@@ -12,7 +12,7 @@ const Nav = () => {
     const closeMenu = () => setClick(false); // Fermer le menu après un clic
 
     const content = (
-        <div className='lg:hidden block absolute top-16 w-full left-0 right-0  transition'>
+        <div className='lg:hidden block absolute top-16 w-full left-0 right-0  bg-white transition'>
             <ul className='text-center text-lg p-4'>
                 <Link to="/" onClick={closeMenu}>
                     <li className='my-2 py-2 border-b border-[#ac9120] hover:bg-[#ac9120] hover:text-white hover:rounded'>
